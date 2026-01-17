@@ -1,13 +1,21 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/98861813?s=200&v=4" alt="SADIGIT Logo" width="150" height="150" style="border-radius: 50%;">
+
 # 🚀 SADIGIT
 
 ### PT Sawarga Digital Indonesia
 
 *Empowering Digital Transformation*
 
-[![Website](https://img.shields.io/badge/Website-sadigit.co.id-blue?style=for-the-badge&logo=google-chrome)](https://sadigit.co.id)
-[![Email](https://img.shields.io/badge/Email-sadigit.indonesia%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sadigit.indonesia@gmail.com)
+<p align="center">
+  <a href="https://sadigit.co.id">
+    <img src="https://img.shields.io/badge/🌐_Visit_Our-Website-0066cc?style=for-the-badge&labelColor=004d99" alt="Website">
+  </a>
+  <a href="mailto:sadigit.indonesia@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Send_Us_an-Email-ea4335?style=for-the-badge&labelColor=c5221f" alt="Email">
+  </a>
+</p>
 
 ---
 
